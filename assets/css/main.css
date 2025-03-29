@@ -2513,7 +2513,7 @@ body {
 }
 
 #nav li.current a {
-  background: #18274b;
+  background: #004dff;
   color: #fff;
 }
 
@@ -2593,7 +2593,7 @@ body {
 
 #banner .content {
   position: relative;
-  background-color: rgba(21, 28, 23, 0.85);
+  background-color: rgba(21, 21, 28, 0.85);
   background-image: url("images/overlay.png"), url("images/highlight.png");
   background-position: top left, center center;
   background-size: auto, 100% 250%;
@@ -2614,7 +2614,7 @@ body {
   font-family: "Open Sans Condensed", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #575d59;
+  color: #57575d;
   font-size: 1.35em;
   margin: 0 0 1.25em 0;
 }
